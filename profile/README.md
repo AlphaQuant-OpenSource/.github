@@ -8,4 +8,4 @@ AlphaQuant 是一个由 "Alpha" 和 "Quant" 两个词组合而成的名称
 
 💬 "AlphaQuant" 平台专注于开发和应用定量分析模型，旨在实现超越市场平均水平的投资回报率
 
-![logo](./assets/logo.png)
+![logo](../assets/logo.png)
